@@ -40,7 +40,7 @@ make
 After compilation, run the game with a map file as an argument. The map file must have the `.ber` extension.
 
 ```bash
-./so_long path/to/map.ber
+./so_long maps/small.ber
 ```
 
 ## Map Format
